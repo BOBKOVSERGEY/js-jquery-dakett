@@ -18,3 +18,5 @@ elPool.className = 'Pool: ' + hotel.pool;
 
 var elGym =document.getElementById('gym');
 elGym.className = 'Gym: ' + hotel.gym;
+
+console.log(hotel.booked);
