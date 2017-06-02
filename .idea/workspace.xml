@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c408c5d4-089f-4273-a6fb-f28752f4f849" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/exzample/images/check-cross.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/exzample/images/travelworthy-backdrop.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/exzample/images/travelworthy-logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/images/check-cross.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/images/travelworthy-backdrop.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/images/travelworthy-logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/css/c03.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/exzample/css/c03.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/exzample/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/exzample/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/global-object/date.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/date/exzample/index.js" afterPath="$PROJECT_DIR$/date/exzample/index.js" />
     </list>
     <ignored path="js-jquery-dakett.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/date/exzample/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="333">
-              <caret line="39" column="48" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="48" />
+              <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -326,12 +312,12 @@
       <workItem from="1496229746245" duration="612000" />
       <workItem from="1496230370264" duration="3427000" />
       <workItem from="1496234909240" duration="10000" />
-      <workItem from="1496379201830" duration="4664000" />
+      <workItem from="1496379201830" duration="4897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32310000" />
+    <option name="totallyTimeSpent" value="32543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1192" height="867" extended-state="0" />
@@ -714,7 +700,7 @@
     <entry file="file://$PROJECT_DIR$/date/exzample/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
-          <caret line="39" column="48" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="48" />
+          <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
