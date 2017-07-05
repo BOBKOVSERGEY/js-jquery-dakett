@@ -37,7 +37,7 @@
     var weekFromToday, day, date, month, year, dayNames, monthNames;
 
     // Добавляем еще 7 дней (в миллисекундах)
-    weekFromToday = new Date(today.getTime() + 140 * 24 * 60 * 60 * 1000);
+    weekFromToday = new Date(today.getTime() + 7 * 24 * 60 * 60 * 1000);
 
     // Создаем массивы, в которых будут содержаться названия дней и месяцев
     dayNames = ['Воскресенье', 'Понедельник', 'Вторник', 'Среду', 'Четверг', 'Пятницу', 'Субботу'];
