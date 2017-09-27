@@ -2,24 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c408c5d4-089f-4273-a6fb-f28752f4f849" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/for/images/bullseye-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/for/images/teacher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/if/images/bullseye-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/if/images/teacher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/switch/images/bullseye-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/switch/images/teacher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/for/css/c04.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/for/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/for/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/if/css/c04.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/switch/css/c04.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/switch/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/switch/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/while/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/while/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/images/2xkinglogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/images/icon-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/images/icon-heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/images/icon-link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/images/icon-trash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/images/kinglogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/images/2xkinglogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/images/icon-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/images/icon-heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/images/icon-link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/images/icon-trash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/images/kinglogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByClassName/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getElementsByTagName/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/date/exzample/index.js" afterPath="$PROJECT_DIR$/date/exzample/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/while/index.html" afterPath="$PROJECT_DIR$/while/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/while/main.js" afterPath="$PROJECT_DIR$/while/main.js" />
     </list>
     <ignored path="js-jquery-dakett.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,21 +44,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/while/index.html">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/while/main.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/getElementsByTagName/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="102">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -68,10 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01/addContent.js" />
-        <option value="$PROJECT_DIR$/01/css/style.css" />
-        <option value="$PROJECT_DIR$/01/index.html" />
-        <option value="$PROJECT_DIR$/newNumber/index.html" />
         <option value="$PROJECT_DIR$/02/css/style.css" />
         <option value="$PROJECT_DIR$/02/index.html" />
         <option value="$PROJECT_DIR$/02/js/index.js" />
@@ -116,9 +116,13 @@
         <option value="$PROJECT_DIR$/switch/main.js" />
         <option value="$PROJECT_DIR$/for/index.html" />
         <option value="$PROJECT_DIR$/for/main.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/while/index.html" />
         <option value="$PROJECT_DIR$/while/main.js" />
+        <option value="$PROJECT_DIR$/getElementsByClassName/index.html" />
+        <option value="$PROJECT_DIR$/getElementsByClassName/main.css" />
+        <option value="$PROJECT_DIR$/getElementsByClassName/index.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/getElementsByTagName/index.js" />
       </list>
     </option>
   </component>
@@ -133,8 +137,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="820" />
-    <option name="width" value="787" />
+    <option name="x" value="647" />
+    <option name="width" value="960" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -178,8 +182,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,7 +212,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="while" />
+              <option name="myItemId" value="getElementsByTagName" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -222,7 +226,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="switch" />
+              <option name="myItemId" value="getElementsByTagName" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-jquery-dakett" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-jquery-dakett" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getElementsByClassName" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,17 +261,17 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\for" />
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\switch" />
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\if" />
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\date\exzample" />
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\date" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\js-jquery-dakett" />
       <recent name="C:\OpenServer\domains\js-jquery-dakett\01\js" />
       <recent name="C:\OpenServer\domains\js-jquery-dakett\01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\getElementsByTagName" />
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\getElementsByClassName" />
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\for" />
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\switch" />
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\if" />
     </key>
   </component>
   <component name="RunManager">
@@ -327,24 +349,29 @@
       <workItem from="1499075625096" duration="201000" />
       <workItem from="1499075839534" duration="1983000" />
       <workItem from="1499246216771" duration="12000" />
-      <workItem from="1499259606942" duration="502000" />
+      <workItem from="1499259606942" duration="1825000" />
+      <workItem from="1499326266895" duration="380000" />
+      <workItem from="1503658090186" duration="612000" />
+      <workItem from="1504018959700" duration="34000" />
+      <workItem from="1504773911709" duration="827000" />
+      <workItem from="1506526554790" duration="1288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37634000" />
+    <option name="totallyTimeSpent" value="42098000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="820" y="0" width="787" height="867" extended-state="0" />
+    <frame x="647" y="0" width="960" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30536452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28444445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27824858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27683616" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -373,34 +400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02/js/exzample.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03FunctionMethodObject/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03FunctionMethodObject/basic-function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03FunctionMethodObject/js/basic-function.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -637,24 +636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/if/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/if/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/switch/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -665,26 +650,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/switch/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/for/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,22 +661,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/while/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="34">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/switch/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/switch/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getElementsByClassName/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getElementsByClassName/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getElementsByClassName/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getElementsByTagName/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding />
         </state>
       </provider>
