@@ -1,3 +1,21 @@
+
+function setup() {
+  var textInput;
+  textInput = document.getElementById('login');
+  textInput.focus();
+}
+
+window.addEventListener('load', setup, false);
+
+
+
+
+
+
+
+
+
+
 function getTarget(e) {
   if (!e) {
     e = window.event;
