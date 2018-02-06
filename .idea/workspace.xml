@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c408c5d4-089f-4273-a6fb-f28752f4f849" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evenent-izmeneniya-dom/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evenent-izmeneniya-dom/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evenent-izmeneniya-dom/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sobytiya-form/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sobytiya-form/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sobytiya-form/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/2xkinglogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/hint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/icon-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/icon-heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/icon-link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/icon-trash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/kinglogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/record.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/tip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/images/warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event-html5/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event-html5/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event-html5/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practiceEvent/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
     </list>
@@ -30,21 +41,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/evenent-izmeneniya-dom/index.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+            <state relative-caret-position="119">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/evenent-izmeneniya-dom/index.html">
+        <entry file="file://$PROJECT_DIR$/practiceEvent/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practiceEvent/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practiceEvent/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="342" column="1" selection-start-line="342" selection-start-column="1" selection-end-line="342" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -58,11 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/date/exzample/index.js" />
-        <option value="$PROJECT_DIR$/if/index.html" />
-        <option value="$PROJECT_DIR$/if/index.js" />
-        <option value="$PROJECT_DIR$/switch/index.html" />
-        <option value="$PROJECT_DIR$/switch/main.js" />
         <option value="$PROJECT_DIR$/for/index.html" />
         <option value="$PROJECT_DIR$/for/main.js" />
         <option value="$PROJECT_DIR$/while/index.html" />
@@ -106,9 +132,14 @@
         <option value="$PROJECT_DIR$/sobytiya-claviatyry/index.js" />
         <option value="$PROJECT_DIR$/sobytiya-form/index.html" />
         <option value="$PROJECT_DIR$/sobytiya-form/index.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/evenent-izmeneniya-dom/index.html" />
         <option value="$PROJECT_DIR$/evenent-izmeneniya-dom/index.js" />
+        <option value="$PROJECT_DIR$/event-html5/index.html" />
+        <option value="$PROJECT_DIR$/event-html5/index.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/practiceEvent/index.html" />
+        <option value="$PROJECT_DIR$/practiceEvent/style.css" />
+        <option value="$PROJECT_DIR$/practiceEvent/index.js" />
       </list>
     </option>
   </component>
@@ -123,8 +154,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="757" />
-    <option name="width" value="807" />
+    <option name="x" value="519" />
+    <option name="width" value="1045" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -226,7 +257,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="evenent-izmeneniya-dom" />
+              <option name="myItemId" value="practiceEvent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-jquery-dakett" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-jquery-dakett" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practiceEvent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,17 +292,18 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\evenent-izmeneniya-dom" />
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\sobytiya-form" />
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\sobytiya-claviatyry" />
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\position" />
-      <recent name="C:\OpenServer\domains\js-jquery-dakett\click" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\practiceEvent\css" />
       <recent name="C:\OpenServer\domains\js-jquery-dakett" />
       <recent name="C:\OpenServer\domains\js-jquery-dakett\01\js" />
       <recent name="C:\OpenServer\domains\js-jquery-dakett\01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\practiceEvent" />
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\event-html5" />
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\evenent-izmeneniya-dom" />
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\sobytiya-form" />
+      <recent name="C:\OpenServer\domains\js-jquery-dakett\sobytiya-claviatyry" />
     </key>
   </component>
   <component name="RunManager">
@@ -351,18 +401,18 @@
       <workItem from="1511172671316" duration="6269000" />
       <workItem from="1513592000410" duration="3326000" />
       <workItem from="1517471848930" duration="11616000" />
-      <workItem from="1517907658028" duration="835000" />
+      <workItem from="1517907658028" duration="3521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82530000" />
+    <option name="totallyTimeSpent" value="85216000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="757" y="0" width="807" height="867" extended-state="0" />
+    <frame x="519" y="0" width="1045" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2904953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22030456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -416,41 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/for/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/switch/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/switch/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/if/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -630,6 +645,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -637,6 +653,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -658,6 +675,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -679,6 +697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -735,6 +754,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -752,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/evenent-izmeneniya-dom/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -769,8 +782,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/evenent-izmeneniya-dom/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event-html5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event-html5/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practiceEvent/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="342" column="1" selection-start-line="342" selection-start-column="1" selection-end-line="342" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practiceEvent/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practiceEvent/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
           <folding />
         </state>
       </provider>
